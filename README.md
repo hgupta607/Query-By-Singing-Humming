@@ -10,10 +10,13 @@ Requirements to create this project:
 Steps to run this project:
 ------------------------------------------------------------------------------------------------------------
 
-Step 1: Install Anaconda for python3 from anaconda website
+Step 1: Install Anaconda for python3 from anaconda website.
+
 Step 2: Install the sqlite database by downloading it from http://sqlitebrowser.org/
 Please download the 32 bit version of sqlite only
+
 Step 3: Now save the ipynb folder on your drive with the dataset folder as well.
+
 Step 4: Now run Anaconda jupyter by opening cmd and running the command as 
 "ipython notebook --script" or "jupyter notebook -- script"
 
